@@ -10,6 +10,10 @@ const PINNED = [
   33089415, // Apashe — Antagonist
   4587101,  // Daft Punk — Random Access Memories
   30095582, // deadmau5 — > Album Title Goes Here <
+  20599156, // Purple Disco Machine — Exotica
+  33100392, // Black Eyed Peas — The E.N.D
+  8752494,  // Kaytranada — 99.9%
+  29745940, // Deadmau5 — 4x4=12
   30624604, // Hippie Sabotage — Trailblazer
 ];
 // Artists placed at the very end of the "All" shelf.

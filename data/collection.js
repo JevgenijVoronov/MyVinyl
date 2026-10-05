@@ -70,6 +70,71 @@ window.COLLECTION = [
   "originalYear": 2021
  },
  {
+  "id": 10504136,
+  "artist": "Brothers Johnson",
+  "title": "Right On Time",
+  "label": "A&M Records",
+  "catno": "SP-4644 ",
+  "format": "LP, Album, Club, RCA",
+  "year": 1977,
+  "added": "2026-10-05",
+  "condition": "",
+  "notes": "",
+  "cover": "covers/10504136.jpg",
+  "genres": [
+   "Funk / Soul"
+  ],
+  "styles": [
+   "Soul",
+   "Funk"
+  ],
+  "country": "US",
+  "uri": "https://www.discogs.com/release/10504136-The-Brothers-Johnson-Right-On-Time",
+  "tracklist": [
+   {
+    "pos": "A1",
+    "title": "Runnin' For Your Lovin'",
+    "dur": "5:05"
+   },
+   {
+    "pos": "A2",
+    "title": "Free Yourself, Be Yourself",
+    "dur": "4:26"
+   },
+   {
+    "pos": "A3",
+    "title": "\"Q\"",
+    "dur": "3:25"
+   },
+   {
+    "pos": "A4",
+    "title": "Right On Time",
+    "dur": "3:50"
+   },
+   {
+    "pos": "B1",
+    "title": "Strawberry Letter 23",
+    "dur": "4:58"
+   },
+   {
+    "pos": "B2",
+    "title": "Brother Man",
+    "dur": "3:10"
+   },
+   {
+    "pos": "B3",
+    "title": "Never Leave You Lonely",
+    "dur": "3:02"
+   },
+   {
+    "pos": "B4",
+    "title": "Love Is",
+    "dur": "4:20"
+   }
+  ],
+  "originalYear": 1977
+ },
+ {
   "id": 26031499,
   "artist": "Daft Punk",
   "title": "Discovery",
@@ -574,6 +639,199 @@ window.COLLECTION = [
   "originalYear": 2016
  },
  {
+  "id": 37100214,
+  "artist": "Babymetal",
+  "title": "Live At The O2 Arena - Highlights",
+  "label": "Capitol Records, BMW FOX Records, Amuse",
+  "catno": "00199957306232",
+  "format": "LP, Album, RSD, Cle",
+  "year": 2026,
+  "added": "2026-10-05",
+  "condition": "",
+  "notes": "",
+  "cover": "covers/37100214.jpg",
+  "genres": [
+   "Rock"
+  ],
+  "styles": [],
+  "country": "Europe",
+  "uri": "https://www.discogs.com/release/37100214-Babymetal-Live-At-The-O2-Arena-Highlights",
+  "tracklist": [
+   {
+    "pos": "A1",
+    "title": "Babymetal Death",
+    "dur": ""
+   },
+   {
+    "pos": "A2",
+    "title": "Pa Pa Ya!!",
+    "dur": ""
+   },
+   {
+    "pos": "A3",
+    "title": "Metali!!",
+    "dur": ""
+   },
+   {
+    "pos": "A4",
+    "title": "Sunset Kiss",
+    "dur": ""
+   },
+   {
+    "pos": "B1",
+    "title": "Ratatata",
+    "dur": ""
+   },
+   {
+    "pos": "B2",
+    "title": "Gimme Chocolate!",
+    "dur": ""
+   },
+   {
+    "pos": "B3",
+    "title": "From Me To U",
+    "dur": ""
+   },
+   {
+    "pos": "B4",
+    "title": "Road Of Resistance",
+    "dur": ""
+   }
+  ],
+  "originalYear": 2026
+ },
+ {
+  "id": 251245,
+  "artist": "Sun",
+  "title": "Destination: Sun",
+  "label": "Capitol Records, EMI",
+  "catno": "ST-11941",
+  "format": "LP, Album",
+  "year": 1979,
+  "added": "2026-10-05",
+  "condition": "",
+  "notes": "",
+  "cover": "covers/251245.jpg",
+  "genres": [
+   "Funk / Soul"
+  ],
+  "styles": [
+   "Disco",
+   "Funk"
+  ],
+  "country": "US",
+  "uri": "https://www.discogs.com/release/251245-Sun-7-Destination-Sun",
+  "tracklist": [
+   {
+    "pos": "A1",
+    "title": "Radiation Level",
+    "dur": "5:55"
+   },
+   {
+    "pos": "A2",
+    "title": "Pure Fire",
+    "dur": "5:08"
+   },
+   {
+    "pos": "A3",
+    "title": "I Want To Be With You",
+    "dur": "4:47"
+   },
+   {
+    "pos": "A4",
+    "title": "Everybody Disco Down",
+    "dur": "3:32"
+   },
+   {
+    "pos": "B1",
+    "title": "Light Of The Universe",
+    "dur": "4:52"
+   },
+   {
+    "pos": "B2",
+    "title": "Deep Rooted Feeling (Stand Up)",
+    "dur": "4:58"
+   },
+   {
+    "pos": "B3",
+    "title": "Baby I Confess",
+    "dur": "4:02"
+   },
+   {
+    "pos": "B4",
+    "title": "Hallelujah Spirit",
+    "dur": "4:43"
+   }
+  ],
+  "originalYear": 1979
+ },
+ {
+  "id": 821599,
+  "artist": "Earth, Wind & Fire",
+  "title": "Electric Universe",
+  "label": "CBS, CBS",
+  "catno": "CBS 25775, 25775",
+  "format": "LP, Album, Gat",
+  "year": 1983,
+  "added": "2026-10-05",
+  "condition": "",
+  "notes": "",
+  "cover": "covers/821599.jpg",
+  "genres": [
+   "Funk / Soul"
+  ],
+  "styles": [
+   "Soul",
+   "Funk",
+   "Disco"
+  ],
+  "country": "Europe",
+  "uri": "https://www.discogs.com/release/821599-Earth-Wind-Fire-Electric-Universe",
+  "tracklist": [
+   {
+    "pos": "A1",
+    "title": "Magnetic",
+    "dur": "4:19"
+   },
+   {
+    "pos": "A2",
+    "title": "Touch",
+    "dur": "4:54"
+   },
+   {
+    "pos": "A3",
+    "title": "Moonwalk",
+    "dur": "4:08"
+   },
+   {
+    "pos": "A4",
+    "title": "Could It Be Right",
+    "dur": "5:15"
+   },
+   {
+    "pos": "B1",
+    "title": "Spirit Of A New World",
+    "dur": "4:29"
+   },
+   {
+    "pos": "B2",
+    "title": "Sweet Sassy Lady",
+    "dur": "4:08"
+   },
+   {
+    "pos": "B3",
+    "title": "We're Living In Our Own Time",
+    "dur": "5:18"
+   },
+   {
+    "pos": "B4",
+    "title": "Electric Nation",
+    "dur": "4:30"
+   }
+  ],
+  "originalYear": 1983
+ },
+ {
   "id": 96655,
   "artist": "Earth, Wind & Fire",
   "title": "Raise!",
@@ -1031,6 +1289,81 @@ window.COLLECTION = [
   "originalYear": 2002
  },
  {
+  "id": 3029369,
+  "artist": "Precious Wilson",
+  "title": "On The Race Track",
+  "label": "Hansa, Hansa, Hansa International, Hansa International",
+  "catno": "202 912, 202 912-320",
+  "format": "LP, Album",
+  "year": 1980,
+  "added": "2026-10-05",
+  "condition": "",
+  "notes": "",
+  "cover": "covers/3029369.jpg",
+  "genres": [
+   "Funk / Soul"
+  ],
+  "styles": [
+   "Funk",
+   "Disco"
+  ],
+  "country": "Germany",
+  "uri": "https://www.discogs.com/release/3029369-Precious-Wilson-On-The-Race-Track",
+  "tracklist": [
+   {
+    "pos": "A1",
+    "title": "We Are On The Race-Track",
+    "dur": "3:33"
+   },
+   {
+    "pos": "A2",
+    "title": "Cry To Me",
+    "dur": "4:22"
+   },
+   {
+    "pos": "A3",
+    "title": "Stop Runnin'",
+    "dur": "3:05"
+   },
+   {
+    "pos": "A4",
+    "title": "Stay By My Side",
+    "dur": "4:51"
+   },
+   {
+    "pos": "A5",
+    "title": "You Ain't Got Love",
+    "dur": "3:41"
+   },
+   {
+    "pos": "B1",
+    "title": "If I Loved You Less",
+    "dur": "4:25"
+   },
+   {
+    "pos": "B2",
+    "title": "Together Forever",
+    "dur": "4:13"
+   },
+   {
+    "pos": "B3",
+    "title": "Mr. Pilot Man",
+    "dur": "3:33"
+   },
+   {
+    "pos": "B4",
+    "title": "Funky Dancer",
+    "dur": "3:04"
+   },
+   {
+    "pos": "B5",
+    "title": "Killing Me Softly",
+    "dur": "3:50"
+   }
+  ],
+  "originalYear": 1980
+ },
+ {
   "id": 30624604,
   "artist": "Hippie Sabotage",
   "title": "Trailblazer",
@@ -1148,6 +1481,111 @@ window.COLLECTION = [
    }
   ],
   "originalYear": 2023
+ },
+ {
+  "id": 33100392,
+  "artist": "Black Eyed Peas",
+  "title": "The E.N.D",
+  "label": "Interscope Records",
+  "catno": "00602475380573",
+  "format": "2xLP, Album, RE, Gat",
+  "year": 2025,
+  "added": "2026-10-05",
+  "condition": "",
+  "notes": "",
+  "cover": "covers/33100392.jpg",
+  "genres": [
+   "Electronic",
+   "Hip Hop",
+   "Funk / Soul",
+   "Pop"
+  ],
+  "styles": [
+   "Electro",
+   "Pop Rap",
+   "Conscious",
+   "Contemporary R&B"
+  ],
+  "country": "Europe",
+  "uri": "https://www.discogs.com/release/33100392-The-Black-Eyed-Peas-The-END",
+  "tracklist": [
+   {
+    "pos": "A1",
+    "title": "Boom Boom Pow",
+    "dur": "5:08"
+   },
+   {
+    "pos": "A2",
+    "title": "Rock That Body",
+    "dur": "4:29"
+   },
+   {
+    "pos": "A3",
+    "title": "Meet Me Halfway",
+    "dur": "4:44"
+   },
+   {
+    "pos": "A4",
+    "title": "Imma Be",
+    "dur": "4:16"
+   },
+   {
+    "pos": "B1",
+    "title": "I Gotta Feeling",
+    "dur": "4:49"
+   },
+   {
+    "pos": "B2",
+    "title": "Alive",
+    "dur": "5:03"
+   },
+   {
+    "pos": "B3",
+    "title": "Missing You",
+    "dur": "4:35"
+   },
+   {
+    "pos": "C1",
+    "title": "Ring-A-Ling",
+    "dur": "4:33"
+   },
+   {
+    "pos": "C2",
+    "title": "Party All The Time",
+    "dur": "4:44"
+   },
+   {
+    "pos": "C3",
+    "title": "Out Of My Head",
+    "dur": "3:52"
+   },
+   {
+    "pos": "C4",
+    "title": "Electric City",
+    "dur": "4:08"
+   },
+   {
+    "pos": "D1",
+    "title": "Showdown",
+    "dur": "4:27"
+   },
+   {
+    "pos": "D2",
+    "title": "Now Generation",
+    "dur": "4:06"
+   },
+   {
+    "pos": "D3",
+    "title": "One Tribe",
+    "dur": "4:41"
+   },
+   {
+    "pos": "D4",
+    "title": "Rockin To The Beat",
+    "dur": "3:45"
+   }
+  ],
+  "originalYear": 2009
  },
  {
   "id": 6270400,
@@ -1554,6 +1992,82 @@ window.COLLECTION = [
    }
   ],
   "originalYear": 1980
+ },
+ {
+  "id": 38130042,
+  "artist": "Julija Zakirova",
+  "title": "Golden Hour",
+  "label": "Not On Label",
+  "catno": "none",
+  "format": "LP",
+  "year": 2024,
+  "added": "2026-10-05",
+  "condition": "",
+  "notes": "",
+  "cover": null,
+  "genres": [
+   "Funk / Soul",
+   "Pop"
+  ],
+  "styles": [
+   "Ballad",
+   "Contemporary R&B"
+  ],
+  "country": "Latvia",
+  "uri": "https://www.discogs.com/release/38130042-Julija-Zakirova-Golden-Hour",
+  "tracklist": [
+   {
+    "pos": "A1",
+    "title": "Dancing Umbrellas",
+    "dur": "3:48"
+   },
+   {
+    "pos": "A2",
+    "title": "Refreshing World",
+    "dur": "4:21"
+   },
+   {
+    "pos": "A3",
+    "title": "Morning City",
+    "dur": "4:41"
+   },
+   {
+    "pos": "A4",
+    "title": "Nations",
+    "dur": "3:54"
+   },
+   {
+    "pos": "A5",
+    "title": "Last Night",
+    "dur": "3:45"
+   },
+   {
+    "pos": "B1",
+    "title": "Beautiful Day",
+    "dur": "3:52"
+   },
+   {
+    "pos": "B2",
+    "title": "Ferris Wheel Fairytale",
+    "dur": "3:33"
+   },
+   {
+    "pos": "B3",
+    "title": "December",
+    "dur": "3:08"
+   },
+   {
+    "pos": "B4",
+    "title": "Roots",
+    "dur": "4:39"
+   },
+   {
+    "pos": "B5",
+    "title": "Positive",
+    "dur": "5:26"
+   }
+  ],
+  "originalYear": 2024
  },
  {
   "id": 33089415,
@@ -2431,6 +2945,154 @@ window.COLLECTION = [
   "originalYear": 2001
  },
  {
+  "id": 1046897,
+  "artist": "KC & The Sunshine Band",
+  "title": "Do It Good",
+  "label": "T.K. Records",
+  "catno": "TK-500",
+  "format": "LP, Album",
+  "year": 1974,
+  "added": "2026-10-05",
+  "condition": "",
+  "notes": "",
+  "cover": "covers/1046897.jpg",
+  "genres": [
+   "Funk / Soul"
+  ],
+  "styles": [
+   "Funk",
+   "Disco"
+  ],
+  "country": "US",
+  "uri": "https://www.discogs.com/release/1046897-KC-The-Sunshine-Band-Do-It-Good",
+  "tracklist": [
+   {
+    "pos": "A1",
+    "title": "Do It Good",
+    "dur": "2:25"
+   },
+   {
+    "pos": "A2",
+    "title": "Sound Your Funky Horn",
+    "dur": "2:59"
+   },
+   {
+    "pos": "A3",
+    "title": "Baby I Want Your Lovin'",
+    "dur": "3:30"
+   },
+   {
+    "pos": "A4",
+    "title": "Queen Of Clubs",
+    "dur": "3:15"
+   },
+   {
+    "pos": "A5",
+    "title": "Blow Your Whistle",
+    "dur": "2:35"
+   },
+   {
+    "pos": "B1",
+    "title": "I'm A Pushover",
+    "dur": "3:45"
+   },
+   {
+    "pos": "B2",
+    "title": "You Don't Know",
+    "dur": "2:30"
+   },
+   {
+    "pos": "B3",
+    "title": "I Need A Little Lovin'",
+    "dur": "2:25"
+   },
+   {
+    "pos": "B4",
+    "title": "All My Love",
+    "dur": "4:25"
+   }
+  ],
+  "originalYear": 1974
+ },
+ {
+  "id": 6345787,
+  "artist": "Avicii",
+  "title": "True",
+  "label": "Universal Music",
+  "catno": "00602537490486",
+  "format": "LP, Album",
+  "year": 2013,
+  "added": "2026-10-05",
+  "condition": "",
+  "notes": "",
+  "cover": "covers/6345787.jpg",
+  "genres": [
+   "Electronic",
+   "Pop"
+  ],
+  "styles": [
+   "House",
+   "Progressive House",
+   "Euro House",
+   "Dance-pop"
+  ],
+  "country": "Europe",
+  "uri": "https://www.discogs.com/release/6345787-Avicii-True",
+  "tracklist": [
+   {
+    "pos": "A1",
+    "title": "Wake Me Up",
+    "dur": "4:09"
+   },
+   {
+    "pos": "A2",
+    "title": "You Make Me",
+    "dur": "3:53"
+   },
+   {
+    "pos": "A3",
+    "title": "Hey Brother",
+    "dur": "4:15"
+   },
+   {
+    "pos": "A4",
+    "title": "Addicted To You",
+    "dur": "2:28"
+   },
+   {
+    "pos": "A5",
+    "title": "Dear Boy",
+    "dur": "7:59"
+   },
+   {
+    "pos": "B1",
+    "title": "Liar Liar",
+    "dur": "3:59"
+   },
+   {
+    "pos": "B2",
+    "title": "Shame On Me",
+    "dur": "4:13"
+   },
+   {
+    "pos": "B3",
+    "title": "Lay Me Down",
+    "dur": "5:00"
+   },
+   {
+    "pos": "B4",
+    "title": "Hope There's Someone",
+    "dur": "6:21"
+   },
+   {
+    "pos": "B5",
+    "title": "Heart Upon My Sleeve",
+    "dur": "4:43"
+   }
+  ],
+  "originalYear": 2013
+ },
+ {
   "id": 21423577,
   "artist": "Cream Soda",
   "title": "Интергалактик (Limited Ambient Edition)",
@@ -2586,6 +3248,77 @@ window.COLLECTION = [
    }
   ],
   "originalYear": 2019
+ },
+ {
+  "id": 10244337,
+  "artist": "Rose Royce",
+  "title": "Strikes Again",
+  "label": "Whitfield Records",
+  "catno": "WHK 3227",
+  "format": "LP, Album, Gat",
+  "year": 1978,
+  "added": "2026-10-05",
+  "condition": "",
+  "notes": "",
+  "cover": "covers/10244337.jpg",
+  "genres": [
+   "Funk / Soul"
+  ],
+  "styles": [
+   "Soul",
+   "Funk",
+   "Disco"
+  ],
+  "country": "US",
+  "uri": "https://www.discogs.com/release/10244337-Rose-Royce-Strikes-Again",
+  "tracklist": [
+   {
+    "pos": "A1",
+    "title": "Get Up Off Your Fat",
+    "dur": "4:35"
+   },
+   {
+    "pos": "A2",
+    "title": "Do It, Do It",
+    "dur": "4:09"
+   },
+   {
+    "pos": "A3",
+    "title": "I'm In Love (And I Love The Feeling)",
+    "dur": "3:41"
+   },
+   {
+    "pos": "A4",
+    "title": "First Come, First Serve",
+    "dur": "3:19"
+   },
+   {
+    "pos": "A5",
+    "title": "Love Don't Live Here Anymore",
+    "dur": "3:56"
+   },
+   {
+    "pos": "B1",
+    "title": "Angel In The Sky",
+    "dur": "4:56"
+   },
+   {
+    "pos": "B2",
+    "title": "Help",
+    "dur": "3:53"
+   },
+   {
+    "pos": "B3",
+    "title": "Let Me Be The First To Know",
+    "dur": "3:52"
+   },
+   {
+    "pos": "B4",
+    "title": "That's What's Wrong With Me",
+    "dur": "6:37"
+   }
+  ],
+  "originalYear": 1978
  },
  {
   "id": 8752494,
